@@ -1,0 +1,36 @@
+h1 {
+    color: white
+}
+h2{
+    text-align:center
+}
+.header {
+    background-color: #00FFFF;
+    display: flex;
+    justify-content: space-between
+}
+.grid {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    background-color:   #FBFBFB
+}
+.footer {
+    background-color:#FA0505;
+    display: flex;
+    justify-content: flex-end 
+}
+.both {
+    background-color: #FA0505;
+    height: 400px;
+    margin-top: -10px;
+
+}
+.footer a {
+    background-color: #FA0505;
+    
+}
+.item {
+    margin-top: 10px;
+    background-color: #b200ff
+}
